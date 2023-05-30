@@ -1,2 +1,2 @@
-# notebook
-note taking application
+# Notizanwendung
+Anwendung mit der Notizen angelget werden
